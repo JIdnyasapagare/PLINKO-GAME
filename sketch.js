@@ -12,7 +12,7 @@ var backgroundIMG;
  
 function preload(){
 
-backgroundIMG = loadImage("plinko.jpg");
+
 
 }
 
